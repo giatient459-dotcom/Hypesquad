@@ -12,3 +12,12 @@ Công cụ đổi huy hiệu HypeSquad Discord trực tiếp trên trình duyệ
 - Dark theme
 
 ## 📦 Cấu trúc
+```
+
+hypesquad-web/
+├── index.html      (HTML chính)
+├── css/
+│   └── style.css   (Stylesheet)
+├── js/
+│   └── app.js      (Logic)
+└── README.md
